@@ -1,2 +1,2 @@
-Nombre: 
-Rut:
+Nombre: Andrés Egaña
+Rut: 20.212.146-2
